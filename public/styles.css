@@ -1,0 +1,48 @@
+body {
+    color: whitesmoke;
+    background-color: #222222;
+}
+
+#form {
+    max-width: 500px;
+    margin: 0 auto;
+    padding: 20px;
+    position: fixed;
+    top: 55%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.btn {
+    margin-right: 10px;
+    background-color: blueviolet;
+    color: white;
+    width: 80px;
+}
+
+.container-md {
+    max-width: 700px;
+    margin: 20px auto;
+    color: whitesmoke;
+    padding: 20px;
+}
+#edit{
+    background-color: blueviolet;
+    color: white;
+    position: relative;
+    left: 90px;
+    bottom: 37px;
+    width: 80px;
+
+
+}
+#delete{
+    width: 80px;
+
+}
+
+#footer {
+    text-align: center;
+    color: whitesmoke;
+    margin-top: 20px;
+}
